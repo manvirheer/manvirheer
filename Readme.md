@@ -1,13 +1,13 @@
-## Hi, I'm Manvir Heer 👋
-I'm a student at Simon Fraser University pursuing a degree in Computer Science. I'm passionate about programming 💻, software development 🛠️, and building cool things that make people's lives easier 🌟.
+CS student @ SFU weaving code into dreams.
+---
+### Building tomorrow's solutions with:
 
-### Skills 🚀
-Here are some of the technical skills that I've developed so far:
+| Category | Technologies |
+|----------|-------------|
+| **Web Technologies** | React ⚛️ \| NestJS 🌳 \| Twilio 📱 \| SendGrid ✉️ \| Vercel 🚀 |
+| **Testing Technologies** | Selenium 🧪 \| JUnit 🔍 \| Jest ✓ \| Postman 📬 |
+| **Programming Languages** | Java ☕ \| TypeScript 📘 \| Python 🐍 \| Bash 💻 |
+| **Project Management** | Azure DevOps 🔄 \| Jira 📊 \| Trello 📋 |
+| **Source Control** | Git 🌿 \| GitHub 🐙 \| Azure Repos 📁 |
 
-Programming languages: Java ☕, C 💻, JavaScript 🌐, TypeScript 🌟, Python 🐍
-
-Web development: HTML 🌐, CSS 🎨, React ⚛️, NestJS 🌳
-
-Databases: SQL 🗃️, MongoDB 🍃
-
-Tools: Git 🌿, Linux 🐧, IntelliJ IDEA 💡
+Building real world solutions which impacts people is a blessing
