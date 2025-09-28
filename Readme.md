@@ -9,7 +9,7 @@ I'm a CS student at SFU who loves building stuff that actually works. Currently 
 - Love to build in general.
 
 ### I work with
-TypeScript • Python • React • Next.js • AWS • Docker • PostgreSQL
+TypeScript • Python • React • Next.js • AWS • Docker • PostgreSQL | LlamaIndex • Qdrant • OpenAI Responses Interface > Building RAG models
 
 ### Current projects
 - **RAG System** - AI-powered exercise plan generator using vector search
